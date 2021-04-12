@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Darkskynin
+- 👋 Hi, I’m Darkskynin
 - 👀 I’m interested in AI and data science
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ...
