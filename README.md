@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Darkskynin
-- 👀 I’m interested in AI and data science
-- 🌱 I’m currently learning AI
+- 👀 I’m interested in AI, robotics, data science, computer science
+- 🌱 I’m currently working as a junior programmer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mustafasenelkargin@gmail.com
 
